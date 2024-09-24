@@ -13,3 +13,7 @@ a{
 #anl{
     font-size: medium;
 }
+h1{
+    border: 5px solid rgb(0, 189, 173);
+    padding: 3px 3px 6px 6px;
+}
