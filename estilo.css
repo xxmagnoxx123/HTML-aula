@@ -6,17 +6,20 @@
 body{
     background-color: #2c2c2c;
     color: aliceblue;
-}
-header{
-    display: inline;
-}
-.analises ul{
     width: 1366px;
     margin: 0 auto;
+}
+.header{
+    display: inline;
+}
+.analises{
     display: flex;
 }
 .link{
-    width: 1366px;
-    margin: 0 auto;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.link section h3{
+    width: 75%;
 }
