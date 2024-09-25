@@ -1,6 +1,7 @@
 body{
     background-color: #2c2c2c;
     color: aliceblue;
+    margin: 25px;
 }
 main{
     font-size: 15px;
@@ -9,11 +10,19 @@ a{
     color: aliceblue;
     font-size: large;
     font-style:bold;
+    margin: 25px;
 }
 #anl{
     font-size: medium;
+    margin: 20px;
 }
 h1{
     border: 5px solid rgb(0, 189, 173);
     padding: 3px 3px 6px 6px;
+    margin: 25px;
 }
+.midia{
+    padding: 5px 5px 5px 5px;
+    margin: 10px;
+}
+
