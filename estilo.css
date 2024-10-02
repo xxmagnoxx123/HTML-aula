@@ -9,8 +9,8 @@ body {
     width: 1366px;
     margin: 0 auto;
 }
-.header{
-    display: inline;
+header {
+    background-color: #068579;
 }
 .analises {
     display: flex;
