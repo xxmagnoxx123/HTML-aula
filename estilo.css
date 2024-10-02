@@ -8,6 +8,7 @@ body {
     color: aliceblue;
     width: 1366px;
     margin: 0 auto;
+    padding: 10px 10px;
 }
 header {
     background-color: #068579;
@@ -20,11 +21,13 @@ header {
     width: 95%;
     color: aliceblue;
     size: 20px;
+    padding: 10px 10px;
 }
 .link {
     display: flex;
     justify-content: space-between;
     width: 99%;
+    padding: 10px 10px;
 }
 a{
     color: aliceblue;
