@@ -11,6 +11,7 @@ body {
 }
 header {
     background-color: #068579;
+    padding: 10px 16px;
 }
 .analises {
     display: flex;
